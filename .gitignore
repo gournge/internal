@@ -1,6 +1,3 @@
 /.vscode
-/src/lib
-/src/include/SDL2
-/src/include/imgui
 
 SDL2.dll
